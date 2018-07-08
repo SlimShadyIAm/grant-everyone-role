@@ -1,0 +1,1 @@
+grant-everyone-role
